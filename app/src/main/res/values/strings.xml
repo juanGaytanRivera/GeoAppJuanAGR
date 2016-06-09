@@ -6,4 +6,10 @@
     <string name="texto_boton_falso">Falso</string>
     <string name="texto_correcto">¡Correcto!</string>
     <string name="texto_incorrecto">¡Incorrecto!</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
+    <string name="texto_pregunta_1">¿La Peninsula de Yucatan se encuentra al Norte de Mexico?</string>
+    <string name="texto_pregunta_2">Nuestro sistema solar se encuentra en la via lactea</string>
+    <string name="texto_pregunta_3">El oceano mas grande de nuestro planeta es el oceano pacifica.</string>
+    <string name="texto_pregunta_4">Los vientos alisios soplan del noroeste al suroeste</string>
+    <string name="texto_pregunta_5">El estado mas grande de nuestra Republica Mexicana es Sonora</string>
 </resources>
